@@ -14,3 +14,5 @@ twitch-videoad.js application/javascript
 		return realFetch.apply(this, arguments);
 	};
 })();
+
+// Branch1 changes
